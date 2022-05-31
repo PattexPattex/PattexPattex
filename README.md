@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PattexPattex
+- 👋 Hi, I’m PattexPattex
 - 👀 I’m interested in Minecraft and GTAV
 - 🌱 I’m currently learning java
 
