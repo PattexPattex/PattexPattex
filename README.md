@@ -1,7 +1,6 @@
 - 👋 Hi, I’m PattexPattex
-- 👀 I’m interested in ETS2
 - 📝 Mostly busy with school
-- 🌱 I’m currently learning C and Vue.js
+- ❓ Yeah, that's it
 
 <!---
 PattexPattex/PattexPattex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
